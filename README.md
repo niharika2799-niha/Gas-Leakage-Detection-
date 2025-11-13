@@ -84,6 +84,3 @@ Components Used
 * Buzzer
 * Connecting wires
 * Power supply
-
-
-sion**, **advanced README**, or **GitHub badges**, I can generate them too.
